@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from 'react'
 import { Col, Container, ListGroup, Row } from 'react-bootstrap'
-import { useParams } from 'react-router-dom'
+import { useParams } from 'react-router-dom';
 
 const ProductDetails = () => {
 
